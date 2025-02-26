@@ -1,0 +1,10 @@
+[package]
+name = "rust-snake-game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.40"
+find_folder = "0.3.0"
+piston_window = "0.132.0"
+rand = "0.9.0"
