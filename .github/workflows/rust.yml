@@ -1,4 +1,4 @@
-name: Rust
+name: Snake Game
 
 on:
   push:
